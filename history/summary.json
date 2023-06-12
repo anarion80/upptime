@@ -22,17 +22,19 @@
     "url": "https://speedtest.nas.anarion.pl",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.nas.anarion.pl.ico",
     "slug": "speedtest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 534,
-    "timeWeek": 686,
-    "timeMonth": 683,
-    "timeYear": 671,
-    "dailyMinutesDown": {}
+    "time": 672,
+    "timeDay": 646,
+    "timeWeek": 695,
+    "timeMonth": 686,
+    "timeYear": 672,
+    "dailyMinutesDown": {
+      "2023-06-12": 0
+    }
   }
 ]
