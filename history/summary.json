@@ -4,7 +4,7 @@
     "url": "https://search.anarion.pl",
     "icon": "https://icons.duckduckgo.com/ip3/search.anarion.pl.ico",
     "slug": "search",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 622,
     "timeYear": 630,
     "dailyMinutesDown": {
+      "2023-06-25": 0,
       "2023-06-14": 894,
       "2023-06-13": 223
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.nas.anarion.pl.ico",
     "slug": "speedtest",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "uptimeDay": "87.15%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "92.59%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "97.01%",
     "time": 659,
     "timeDay": 576,
     "timeWeek": 577,
