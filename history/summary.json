@@ -29,8 +29,8 @@
     "url": "https://speedtest.nas.anarion.pl",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.nas.anarion.pl.ico",
     "slug": "speedtest",
-    "status": "up",
-    "uptime": "94.67%",
+    "status": "down",
+    "uptime": "94.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "98.30%",
@@ -41,6 +41,7 @@
     "timeMonth": 734,
     "timeYear": 662,
     "dailyMinutesDown": {
+      "2024-05-01": 0,
       "2024-04-29": 81,
       "2024-04-06": 167,
       "2024-04-04": 91,
