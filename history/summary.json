@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 663,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2023-09-25": 639,
       "2023-09-24": 1153
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.nas.anarion.pl.ico",
     "slug": "speedtest",
     "status": "up",
-    "uptime": "94.69%",
+    "uptime": "94.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.72%",
     "uptimeMonth": "92.20%",
     "uptimeYear": "93.92%",
     "time": 656,
-    "timeDay": 515,
+    "timeDay": 531,
     "timeWeek": 668,
-    "timeMonth": 618,
+    "timeMonth": 613,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2024-07-10": 432,
