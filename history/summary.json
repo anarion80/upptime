@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.anarion.pl.ico",
     "slug": "search",
     "status": "down",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 640,
+    "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 623,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2023-09-25": 639,
       "2023-09-24": 1153
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.nas.anarion.pl.ico",
     "slug": "speedtest",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "93.90%",
     "time": 652,
-    "timeDay": 512,
-    "timeWeek": 584,
-    "timeMonth": 610,
-    "timeYear": 652,
+    "timeDay": 532,
+    "timeWeek": 586,
+    "timeMonth": 613,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2024-08-02": 103,
       "2024-07-17": 395,
@@ -78,8 +78,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 797
+      "2023-08-23": 1440
     }
   }
 ]
