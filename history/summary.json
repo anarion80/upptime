@@ -81,19 +81,19 @@
     "url": "https://emodul.pl",
     "icon": "https://icons.duckduckgo.com/ip3/emodul.pl.ico",
     "slug": "emodul-pl",
-    "status": "down",
-    "uptime": "39.99%",
-    "uptimeDay": "39.99%",
-    "uptimeWeek": "39.99%",
-    "uptimeMonth": "39.99%",
-    "uptimeYear": "39.99%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 426,
+    "timeDay": 426,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-10-18": 1
+      "2024-10-18": 276
     }
   },
   {
@@ -102,18 +102,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emodul.eu.ico",
     "slug": "emodul-eu",
     "status": "down",
-    "uptime": "68.00%",
-    "uptimeDay": "68.00%",
-    "uptimeWeek": "68.00%",
-    "uptimeMonth": "68.00%",
-    "uptimeYear": "68.00%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-18": 0
+      "2024-10-18": 276
     }
   }
 ]
