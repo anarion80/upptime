@@ -29,9 +29,9 @@
     "uptimeMonth": "92.29%",
     "uptimeYear": "95.04%",
     "time": 644,
-    "timeDay": 471,
-    "timeWeek": 626,
-    "timeMonth": 584,
+    "timeDay": 586,
+    "timeWeek": 634,
+    "timeMonth": 588,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2024-10-12": 561,
@@ -74,6 +74,46 @@
       "2023-11-18": 1440,
       "2023-11-17": 875,
       "2023-10-23": 450
+    }
+  },
+  {
+    "name": "emodul.pl",
+    "url": "https://emodul.pl",
+    "icon": "https://icons.duckduckgo.com/ip3/emodul.pl.ico",
+    "slug": "emodul-pl",
+    "status": "down",
+    "uptime": "43.99%",
+    "uptimeDay": "43.99%",
+    "uptimeWeek": "43.99%",
+    "uptimeMonth": "43.99%",
+    "uptimeYear": "43.99%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-10-18": 1
+    }
+  },
+  {
+    "name": "emodul.eu",
+    "url": "https://emodul.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/emodul.eu.ico",
+    "slug": "emodul-eu",
+    "status": "down",
+    "uptime": "83.62%",
+    "uptimeDay": "83.62%",
+    "uptimeWeek": "83.62%",
+    "uptimeMonth": "83.62%",
+    "uptimeYear": "83.62%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-10-18": 0
     }
   }
 ]
