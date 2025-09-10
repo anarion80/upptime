@@ -1,7 +1,7 @@
 url: https://speedtest.nas.anarion.pl
-status: down
-code: 502
-responseTime: 738
-lastUpdated: 2025-09-10T14:22:33.387Z
+status: up
+code: 200
+responseTime: 644
+lastUpdated: 2025-09-10T15:29:55.470Z
 startTime: 2023-04-11T10:12:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
