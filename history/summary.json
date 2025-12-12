@@ -4,7 +4,7 @@
     "url": "https://search.anarion.pl",
     "icon": "https://icons.duckduckgo.com/ip3/search.anarion.pl.ico",
     "slug": "search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1063,
     "timeDay": 589,
     "timeWeek": 2176,
-    "timeMonth": 2661,
+    "timeMonth": 2691,
     "timeYear": 1063,
     "dailyMinutesDown": {
       "2025-05-19": 518,
