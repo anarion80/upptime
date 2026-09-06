@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 760,
-    "timeWeek": 486,
-    "timeMonth": 531,
-    "timeYear": 997,
+    "time": 881,
+    "timeDay": 441,
+    "timeWeek": 510,
+    "timeMonth": 532,
+    "timeYear": 996,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.nas.anarion.pl.ico",
     "slug": "speedtest",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 673,
-    "timeDay": 701,
-    "timeWeek": 564,
-    "timeMonth": 660,
-    "timeYear": 669,
+    "timeDay": 520,
+    "timeWeek": 597,
+    "timeMonth": 643,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 586,
-    "timeDay": 500,
-    "timeWeek": 416,
-    "timeMonth": 487,
-    "timeYear": 594,
+    "timeDay": 333,
+    "timeWeek": 421,
+    "timeMonth": 481,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
-    "timeDay": 494,
-    "timeWeek": 467,
-    "timeMonth": 551,
-    "timeYear": 644,
+    "timeDay": 320,
+    "timeWeek": 459,
+    "timeMonth": 546,
+    "timeYear": 643,
     "dailyMinutesDown": {}
   }
 ]
